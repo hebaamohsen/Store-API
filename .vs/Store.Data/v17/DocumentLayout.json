@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\ASP.assignments\\Store.Data\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{015A33DA-E9E9-4121-A8C6-F26E3FEE0756}|Store.Service\\Store.Service.csproj|e:\\asp.assignments\\store.data\\store.service\\services\\theproducts\\dtos\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015A33DA-E9E9-4121-A8C6-F26E3FEE0756}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\theproducts\\dtos\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015A33DA-E9E9-4121-A8C6-F26E3FEE0756}|Store.Service\\Store.Service.csproj|e:\\asp.assignments\\store.data\\store.service\\services\\theproducts\\dtos\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015A33DA-E9E9-4121-A8C6-F26E3FEE0756}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\theproducts\\dtos\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015A33DA-E9E9-4121-A8C6-F26E3FEE0756}|Store.Service\\Store.Service.csproj|e:\\asp.assignments\\store.data\\store.service\\services\\theproducts\\dtos\\brandtypedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015A33DA-E9E9-4121-A8C6-F26E3FEE0756}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\theproducts\\dtos\\brandtypedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015A33DA-E9E9-4121-A8C6-F26E3FEE0756}|Store.Service\\Store.Service.csproj|e:\\asp.assignments\\store.data\\store.service\\services\\theproducts\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015A33DA-E9E9-4121-A8C6-F26E3FEE0756}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\theproducts\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CAAA8E0-29F6-4EB3-91AA-A0474A24F1A2}|Store.Web\\Store.Web.csproj|e:\\asp.assignments\\store.data\\store.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{8CAAA8E0-29F6-4EB3-91AA-A0474A24F1A2}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CAAA8E0-29F6-4EB3-91AA-A0474A24F1A2}|Store.Web\\Store.Web.csproj|e:\\asp.assignments\\store.data\\store.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CAAA8E0-29F6-4EB3-91AA-A0474A24F1A2}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CAAA8E0-29F6-4EB3-91AA-A0474A24F1A2}|Store.Web\\Store.Web.csproj|e:\\asp.assignments\\store.data\\store.web\\store.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8CAAA8E0-29F6-4EB3-91AA-A0474A24F1A2}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\store.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CAAA8E0-29F6-4EB3-91AA-A0474A24F1A2}|Store.Web\\Store.Web.csproj|e:\\asp.assignments\\store.data\\store.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CAAA8E0-29F6-4EB3-91AA-A0474A24F1A2}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductPictureUrlResolver.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Service\\Services\\TheProducts\\Dtos\\ProductPictureUrlResolver.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\TheProducts\\Dtos\\ProductPictureUrlResolver.cs",
+              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Service\\Services\\TheProducts\\Dtos\\ProductPictureUrlResolver.cs",
+              "RelativeToolTip": "Store.Service\\Services\\TheProducts\\Dtos\\ProductPictureUrlResolver.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAABcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:45:37.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "Store.Web\\appsettings.json",
+              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Web\\appsettings.json",
+              "RelativeToolTip": "Store.Web\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-24T21:38:57.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductProfile.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Service\\Services\\TheProducts\\Dtos\\ProductProfile.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\TheProducts\\Dtos\\ProductProfile.cs",
+              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Service\\Services\\TheProducts\\Dtos\\ProductProfile.cs",
+              "RelativeToolTip": "Store.Service\\Services\\TheProducts\\Dtos\\ProductProfile.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABEAAABsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:21:00.027Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Service\\Services\\TheProducts\\ProductService.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\TheProducts\\ProductService.cs",
+              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Service\\Services\\TheProducts\\ProductService.cs",
+              "RelativeToolTip": "Store.Service\\Services\\TheProducts\\ProductService.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:17:31.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BrandTypeDetailsDto.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Service\\Services\\TheProducts\\Dtos\\BrandTypeDetailsDto.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\TheProducts\\Dtos\\BrandTypeDetailsDto.cs",
+              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Service\\Services\\TheProducts\\Dtos\\BrandTypeDetailsDto.cs",
+              "RelativeToolTip": "Store.Service\\Services\\TheProducts\\Dtos\\BrandTypeDetailsDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T21:15:40.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Store.Web",
+              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Web\\Store.Web.csproj",
+              "RelativeDocumentMoniker": "Store.Web\\Store.Web.csproj",
+              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Web\\Store.Web.csproj",
+              "RelativeToolTip": "Store.Web\\Store.Web.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-24T20:56:45.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Program.cs",
+              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Web\\Program.cs",
+              "RelativeToolTip": "Store.Web\\Program.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAAAC4AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:38:07.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Web\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Controllers\\ProductsController.cs",
+              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Web\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Store.Web\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAB8AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-24T20:37:11.935Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,93 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\ASP.assignments\\Store.Data\\Store.Web\\wwwroot\\images\\products\\CheesyVegetableLasagna.png",
+      "PackagePath": "staticwebassets\\images\\products\\CheesyVegetableLasagna.png"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\Store.Data\\Store.Web\\wwwroot\\images\\products\\ChickenMarsala.png",
+      "PackagePath": "staticwebassets\\images\\products\\ChickenMarsala.png"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\Store.Data\\Store.Web\\wwwroot\\images\\products\\ChickenTeriyakiNoodles.png",
+      "PackagePath": "staticwebassets\\images\\products\\ChickenTeriyakiNoodles.png"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\Store.Data\\Store.Web\\wwwroot\\images\\products\\ChickenTikkaMasala.jpg",
+      "PackagePath": "staticwebassets\\images\\products\\ChickenTikkaMasala.jpg"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\Store.Data\\Store.Web\\wwwroot\\images\\products\\Congee.png",
+      "PackagePath": "staticwebassets\\images\\products\\Congee.png"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\Store.Data\\Store.Web\\wwwroot\\images\\products\\CreamyGochujangTortellini.png",
+      "PackagePath": "staticwebassets\\images\\products\\CreamyGochujangTortellini.png"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\Store.Data\\Store.Web\\wwwroot\\images\\products\\CrispyVegetablePakoras.png",
+      "PackagePath": "staticwebassets\\images\\products\\CrispyVegetablePakoras.png"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\Store.Data\\Store.Web\\wwwroot\\images\\products\\HaluskiNoodles.png",
+      "PackagePath": "staticwebassets\\images\\products\\HaluskiNoodles.png"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\Store.Data\\Store.Web\\wwwroot\\images\\products\\HeartyVegetableLasagna.png",
+      "PackagePath": "staticwebassets\\images\\products\\HeartyVegetableLasagna.png"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\Store.Data\\Store.Web\\wwwroot\\images\\products\\ItalianChickenMarinade.png",
+      "PackagePath": "staticwebassets\\images\\products\\ItalianChickenMarinade.png"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\Store.Data\\Store.Web\\wwwroot\\images\\products\\ItalianWeddingSoup.png",
+      "PackagePath": "staticwebassets\\images\\products\\ItalianWeddingSoup.png"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\Store.Data\\Store.Web\\wwwroot\\images\\products\\Kulfi.png",
+      "PackagePath": "staticwebassets\\images\\products\\Kulfi.png"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\Store.Data\\Store.Web\\wwwroot\\images\\products\\PastaSalad.png",
+      "PackagePath": "staticwebassets\\images\\products\\PastaSalad.png"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\Store.Data\\Store.Web\\wwwroot\\images\\products\\PepperPasta.png",
+      "PackagePath": "staticwebassets\\images\\products\\PepperPasta.png"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\Store.Data\\Store.Web\\wwwroot\\images\\products\\ShrimpEggFooYoung.png",
+      "PackagePath": "staticwebassets\\images\\products\\ShrimpEggFooYoung.png"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\Store.Data\\Store.Web\\wwwroot\\images\\products\\TandooriChicken.png",
+      "PackagePath": "staticwebassets\\images\\products\\TandooriChicken.png"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\Store.Data\\Store.Web\\wwwroot\\images\\products\\VegetarianKorma.png",
+      "PackagePath": "staticwebassets\\images\\products\\VegetarianKorma.png"
+    },
+    {
+      "Id": "E:\\ASP.assignments\\Store.Data\\Store.Web\\wwwroot\\images\\products\\VegetarianRefriedBeans.png",
+      "PackagePath": "staticwebassets\\images\\products\\VegetarianRefriedBeans.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.Store.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.Store.Web.props",
+      "PackagePath": "build\\Store.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.Store.Web.props",
+      "PackagePath": "buildMultiTargeting\\Store.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.Store.Web.props",
+      "PackagePath": "buildTransitive\\Store.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

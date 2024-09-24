@@ -1,0 +1,17 @@
+E:\ASP.assignments\Store.Data\Store.Service\bin\Debug\net8.0\Store.Service.deps.json
+E:\ASP.assignments\Store.Data\Store.Service\bin\Debug\net8.0\Store.Service.dll
+E:\ASP.assignments\Store.Data\Store.Service\bin\Debug\net8.0\Store.Service.pdb
+E:\ASP.assignments\Store.Data\Store.Service\bin\Debug\net8.0\Store.Data.dll
+E:\ASP.assignments\Store.Data\Store.Service\bin\Debug\net8.0\Store.Repository.dll
+E:\ASP.assignments\Store.Data\Store.Service\bin\Debug\net8.0\Store.Repository.pdb
+E:\ASP.assignments\Store.Data\Store.Service\bin\Debug\net8.0\Store.Data.pdb
+E:\ASP.assignments\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.csproj.AssemblyReference.cache
+E:\ASP.assignments\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.assignments\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.AssemblyInfoInputs.cache
+E:\ASP.assignments\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.AssemblyInfo.cs
+E:\ASP.assignments\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.csproj.CoreCompileInputs.cache
+E:\ASP.assignments\Store.Data\Store.Service\obj\Debug\net8.0\Store.Se.AEB3E340.Up2Date
+E:\ASP.assignments\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.dll
+E:\ASP.assignments\Store.Data\Store.Service\obj\Debug\net8.0\refint\Store.Service.dll
+E:\ASP.assignments\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.pdb
+E:\ASP.assignments\Store.Data\Store.Service\obj\Debug\net8.0\ref\Store.Service.dll
