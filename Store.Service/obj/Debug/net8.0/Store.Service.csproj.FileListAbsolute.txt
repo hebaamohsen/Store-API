@@ -15,3 +15,4 @@ E:\ASP.assignments\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.dll
 E:\ASP.assignments\Store.Data\Store.Service\obj\Debug\net8.0\refint\Store.Service.dll
 E:\ASP.assignments\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.pdb
 E:\ASP.assignments\Store.Data\Store.Service\obj\Debug\net8.0\ref\Store.Service.dll
+E:\ASP.assignments\Store.Data\Store.Service\obj\Debug\net8.0\Store.Service.sourcelink.json

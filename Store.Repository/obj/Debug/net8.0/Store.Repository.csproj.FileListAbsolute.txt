@@ -13,3 +13,4 @@ E:\ASP.assignments\Store.Data\Store.Repository\obj\Debug\net8.0\Store.Repository
 E:\ASP.assignments\Store.Data\Store.Repository\obj\Debug\net8.0\refint\Store.Repository.dll
 E:\ASP.assignments\Store.Data\Store.Repository\obj\Debug\net8.0\Store.Repository.pdb
 E:\ASP.assignments\Store.Data\Store.Repository\obj\Debug\net8.0\ref\Store.Repository.dll
+E:\ASP.assignments\Store.Data\Store.Repository\obj\Debug\net8.0\Store.Repository.sourcelink.json

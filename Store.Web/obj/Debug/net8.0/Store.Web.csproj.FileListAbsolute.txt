@@ -143,3 +143,4 @@ E:\ASP.assignments\Store.Data\Store.Web\obj\Debug\net8.0\Store.Web.genruntimecon
 E:\ASP.assignments\Store.Data\Store.Web\obj\Debug\net8.0\ref\Store.Web.dll
 E:\ASP.assignments\Store.Data\Store.Web\bin\Debug\net8.0\Store.Web.staticwebassets.runtime.json
 E:\ASP.assignments\Store.Data\Store.Web\bin\Debug\net8.0\AutoMapper.dll
+E:\ASP.assignments\Store.Data\Store.Web\obj\Debug\net8.0\Store.Web.sourcelink.json

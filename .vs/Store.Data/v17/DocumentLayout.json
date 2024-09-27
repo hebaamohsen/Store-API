@@ -3,32 +3,48 @@
   "WorkspaceRootPath": "E:\\ASP.assignments\\Store.Data\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{015A33DA-E9E9-4121-A8C6-F26E3FEE0756}|Store.Service\\Store.Service.csproj|e:\\asp.assignments\\store.data\\store.service\\services\\theproducts\\dtos\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{015A33DA-E9E9-4121-A8C6-F26E3FEE0756}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\theproducts\\dtos\\productprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{417D9E0B-8CC4-4E4D-8C2A-24025CEF15EC}|Store.Repository\\Store.Repository.csproj|e:\\asp.assignments\\store.data\\store.repository\\specification\\productspecs\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417D9E0B-8CC4-4E4D-8C2A-24025CEF15EC}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\productspecs\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{015A33DA-E9E9-4121-A8C6-F26E3FEE0756}|Store.Service\\Store.Service.csproj|e:\\asp.assignments\\store.data\\store.service\\services\\theproducts\\dtos\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{015A33DA-E9E9-4121-A8C6-F26E3FEE0756}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\theproducts\\dtos\\productpictureurlresolver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{417D9E0B-8CC4-4E4D-8C2A-24025CEF15EC}|Store.Repository\\Store.Repository.csproj|e:\\asp.assignments\\store.data\\store.repository\\specification\\productspecs\\productwithcountspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417D9E0B-8CC4-4E4D-8C2A-24025CEF15EC}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\productspecs\\productwithcountspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{015A33DA-E9E9-4121-A8C6-F26E3FEE0756}|Store.Service\\Store.Service.csproj|e:\\asp.assignments\\store.data\\store.service\\services\\theproducts\\dtos\\brandtypedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{015A33DA-E9E9-4121-A8C6-F26E3FEE0756}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\theproducts\\dtos\\brandtypedetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{417D9E0B-8CC4-4E4D-8C2A-24025CEF15EC}|Store.Repository\\Store.Repository.csproj|e:\\asp.assignments\\store.data\\store.repository\\specification\\productspecs\\productwithspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417D9E0B-8CC4-4E4D-8C2A-24025CEF15EC}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\productspecs\\productwithspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{015A33DA-E9E9-4121-A8C6-F26E3FEE0756}|Store.Service\\Store.Service.csproj|e:\\asp.assignments\\store.data\\store.service\\services\\theproducts\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{015A33DA-E9E9-4121-A8C6-F26E3FEE0756}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\theproducts\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CAAA8E0-29F6-4EB3-91AA-A0474A24F1A2}|Store.Web\\Store.Web.csproj|e:\\asp.assignments\\store.data\\store.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8CAAA8E0-29F6-4EB3-91AA-A0474A24F1A2}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{417D9E0B-8CC4-4E4D-8C2A-24025CEF15EC}|Store.Repository\\Store.Repository.csproj|e:\\asp.assignments\\store.data\\store.repository\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417D9E0B-8CC4-4E4D-8C2A-24025CEF15EC}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CAAA8E0-29F6-4EB3-91AA-A0474A24F1A2}|Store.Web\\Store.Web.csproj|e:\\asp.assignments\\store.data\\store.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8CAAA8E0-29F6-4EB3-91AA-A0474A24F1A2}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{417D9E0B-8CC4-4E4D-8C2A-24025CEF15EC}|Store.Repository\\Store.Repository.csproj|e:\\asp.assignments\\store.data\\store.repository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417D9E0B-8CC4-4E4D-8C2A-24025CEF15EC}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8CAAA8E0-29F6-4EB3-91AA-A0474A24F1A2}|Store.Web\\Store.Web.csproj|e:\\asp.assignments\\store.data\\store.web\\store.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8CAAA8E0-29F6-4EB3-91AA-A0474A24F1A2}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\store.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{015A33DA-E9E9-4121-A8C6-F26E3FEE0756}|Store.Service\\Store.Service.csproj|e:\\asp.assignments\\store.data\\store.service\\helper\\paginatedresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015A33DA-E9E9-4121-A8C6-F26E3FEE0756}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\helper\\paginatedresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{015A33DA-E9E9-4121-A8C6-F26E3FEE0756}|Store.Service\\Store.Service.csproj|e:\\asp.assignments\\store.data\\store.service\\services\\theproducts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{015A33DA-E9E9-4121-A8C6-F26E3FEE0756}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\services\\theproducts\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417D9E0B-8CC4-4E4D-8C2A-24025CEF15EC}|Store.Repository\\Store.Repository.csproj|e:\\asp.assignments\\store.data\\store.repository\\specification\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417D9E0B-8CC4-4E4D-8C2A-24025CEF15EC}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\specificationevaluator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417D9E0B-8CC4-4E4D-8C2A-24025CEF15EC}|Store.Repository\\Store.Repository.csproj|e:\\asp.assignments\\store.data\\store.repository\\specification\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417D9E0B-8CC4-4E4D-8C2A-24025CEF15EC}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\basespecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{417D9E0B-8CC4-4E4D-8C2A-24025CEF15EC}|Store.Repository\\Store.Repository.csproj|e:\\asp.assignments\\store.data\\store.repository\\specification\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{417D9E0B-8CC4-4E4D-8C2A-24025CEF15EC}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\ispecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CAAA8E0-29F6-4EB3-91AA-A0474A24F1A2}|Store.Web\\Store.Web.csproj|e:\\asp.assignments\\store.data\\store.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,42 +66,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductPictureUrlResolver.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Service\\Services\\TheProducts\\Dtos\\ProductPictureUrlResolver.cs",
-              "RelativeDocumentMoniker": "Store.Service\\Services\\TheProducts\\Dtos\\ProductPictureUrlResolver.cs",
-              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Service\\Services\\TheProducts\\Dtos\\ProductPictureUrlResolver.cs",
-              "RelativeToolTip": "Store.Service\\Services\\TheProducts\\Dtos\\ProductPictureUrlResolver.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAABcAAAAxAAAA",
+              "DocumentIndex": 2,
+              "Title": "ProductWithSpecification.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Repository\\Specification\\ProductSpecs\\ProductWithSpecification.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Specification\\ProductSpecs\\ProductWithSpecification.cs",
+              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Repository\\Specification\\ProductSpecs\\ProductWithSpecification.cs",
+              "RelativeToolTip": "Store.Repository\\Specification\\ProductSpecs\\ProductWithSpecification.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAB5AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T21:45:37.109Z",
+              "WhenOpened": "2024-09-27T16:46:02.315Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Web\\appsettings.json",
-              "RelativeDocumentMoniker": "Store.Web\\appsettings.json",
-              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Web\\appsettings.json",
-              "RelativeToolTip": "Store.Web\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-24T21:38:57.758Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductProfile.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Service\\Services\\TheProducts\\Dtos\\ProductProfile.cs",
-              "RelativeDocumentMoniker": "Store.Service\\Services\\TheProducts\\Dtos\\ProductProfile.cs",
-              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Service\\Services\\TheProducts\\Dtos\\ProductProfile.cs",
-              "RelativeToolTip": "Store.Service\\Services\\TheProducts\\Dtos\\ProductProfile.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAAABEAAABsAAAA",
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Repository\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Repositories\\GenericRepository.cs",
+              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Repository\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Store.Repository\\Repositories\\GenericRepository.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAYwDMAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T21:21:00.027Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T15:26:03.318Z"
             },
             {
               "$type": "Document",
@@ -95,62 +97,120 @@
               "RelativeDocumentMoniker": "Store.Service\\Services\\TheProducts\\ProductService.cs",
               "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Service\\Services\\TheProducts\\ProductService.cs",
               "RelativeToolTip": "Store.Service\\Services\\TheProducts\\ProductService.cs",
-              "ViewState": "AQIAAA4AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAADgAAAAAAAAAAAAkwEMAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T21:17:31.569Z",
+              "WhenOpened": "2024-09-27T13:58:38.809Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "BrandTypeDetailsDto.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Service\\Services\\TheProducts\\Dtos\\BrandTypeDetailsDto.cs",
-              "RelativeDocumentMoniker": "Store.Service\\Services\\TheProducts\\Dtos\\BrandTypeDetailsDto.cs",
-              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Service\\Services\\TheProducts\\Dtos\\BrandTypeDetailsDto.cs",
-              "RelativeToolTip": "Store.Service\\Services\\TheProducts\\Dtos\\BrandTypeDetailsDto.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "DocumentIndex": 0,
+              "Title": "ProductSpecification.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Repository\\Specification\\ProductSpecs\\ProductSpecification.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Specification\\ProductSpecs\\ProductSpecification.cs",
+              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Repository\\Specification\\ProductSpecs\\ProductSpecification.cs",
+              "RelativeToolTip": "Store.Repository\\Specification\\ProductSpecs\\ProductSpecification.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACMAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T21:15:40.936Z",
+              "WhenOpened": "2024-09-27T16:45:06.943Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Store.Web",
-              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Web\\Store.Web.csproj",
-              "RelativeDocumentMoniker": "Store.Web\\Store.Web.csproj",
-              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Web\\Store.Web.csproj",
-              "RelativeToolTip": "Store.Web\\Store.Web.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-24T20:56:45.179Z",
+              "DocumentIndex": 1,
+              "Title": "ProductWithCountSpecification.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Repository\\Specification\\ProductSpecs\\ProductWithCountSpecification.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Specification\\ProductSpecs\\ProductWithCountSpecification.cs",
+              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Repository\\Specification\\ProductSpecs\\ProductWithCountSpecification.cs",
+              "RelativeToolTip": "Store.Repository\\Specification\\ProductSpecs\\ProductWithCountSpecification.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAABoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:49:32.654Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Web\\Program.cs",
-              "RelativeDocumentMoniker": "Store.Web\\Program.cs",
-              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Web\\Program.cs",
-              "RelativeToolTip": "Store.Web\\Program.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAAAC4AAAAhAAAA",
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Repository\\Interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Interfaces\\IGenericRepository.cs",
+              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Repository\\Interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "Store.Repository\\Interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:38:07.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T14:11:16.624Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaginatedResultDto.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Service\\Helper\\PaginatedResultDto.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Helper\\PaginatedResultDto.cs",
+              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Service\\Helper\\PaginatedResultDto.cs",
+              "RelativeToolTip": "Store.Service\\Helper\\PaginatedResultDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T19:26:16.776Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Service\\Services\\TheProducts\\IProductService.cs",
+              "RelativeDocumentMoniker": "Store.Service\\Services\\TheProducts\\IProductService.cs",
+              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Service\\Services\\TheProducts\\IProductService.cs",
+              "RelativeToolTip": "Store.Service\\Services\\TheProducts\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T13:57:10.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SpecificationEvaluator.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Repository\\Specification\\SpecificationEvaluator.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Specification\\SpecificationEvaluator.cs",
+              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Repository\\Specification\\SpecificationEvaluator.cs",
+              "RelativeToolTip": "Store.Repository\\Specification\\SpecificationEvaluator.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:42:01.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseSpecification.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Repository\\Specification\\BaseSpecification.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Specification\\BaseSpecification.cs",
+              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Repository\\Specification\\BaseSpecification.cs",
+              "RelativeToolTip": "Store.Repository\\Specification\\BaseSpecification.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAuwCoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:35:38.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ISpecification.cs",
+              "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Repository\\Specification\\ISpecification.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\Specification\\ISpecification.cs",
+              "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Repository\\Specification\\ISpecification.cs",
+              "RelativeToolTip": "Store.Repository\\Specification\\ISpecification.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-27T16:32:26.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "E:\\ASP.assignments\\Store.Data\\Store.Web\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Store.Web\\Controllers\\ProductsController.cs",
               "ToolTip": "E:\\ASP.assignments\\Store.Data\\Store.Web\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Store.Web\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAAAB8AAAA6AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-24T20:37:11.935Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-27T15:31:23.755Z"
             }
           ]
         }

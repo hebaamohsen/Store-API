@@ -1,6 +1,8 @@
 ﻿using AutoMapper;
 using Store.Data.Entities;
 using Store.Repository.Interfaces;
+using Store.Repository.Specification.ProductSpecs;
+using Store.Service.Helper;
 using Store.Service.Services.TheProducts.Dtos;
 using System;
 using System.Collections.Generic;
@@ -31,13 +33,16 @@ namespace Store.Service.Services.TheProducts
             return mappedBrands;
         }
 
-        public async Task<IReadOnlyList<ProductDetailsDto>> GetAllProductsAsync()
+        public async Task<PaginatedResultDto<ProductDetailsDto>> GetAllProductsAsync(ProductSpecification input)
         {
-            var products = await _unitOfWork.Repository<Product, int>().GetAllAsNoTrackingAsync();
+            var specs = new ProductWithSpecification(input);
+            var products = await _unitOfWork.Repository<Product,int>().GetAllWithSpecificationAsync(specs);
+            var countSpecs = new ProductWithCountSpecification(input);
+            var count = await _unitOfWork.Repository<Product, int>().GetCountSpecificationAsync(countSpecs);
 
             var mappedProduct = _mapper.Map<IReadOnlyList<ProductDetailsDto>>(products);
 
-            return mappedProduct;
+            return new PaginatedResultDto<ProductDetailsDto>(input.pageIndex,input.PageSize,count,mappedProduct);
         }
 
         public async Task<IReadOnlyList<BrandTypeDetailsDto>> GetAllTypesAsync()
@@ -54,7 +59,8 @@ namespace Store.Service.Services.TheProducts
         {
             if (productId == null)
                 throw new Exception("Id Is Null");
-            var product = await _unitOfWork.Repository<Product, int>().GetByIdAsync(productId.Value);
+            var specs = new ProductWithSpecification(productId);
+            var product = await _unitOfWork.Repository<Product, int>().GetWithSpecificationByIdAsync(specs);
 
             if (product == null)
                 throw new Exception("Product Not Found");
@@ -62,5 +68,9 @@ namespace Store.Service.Services.TheProducts
             var mappedProduct = _mapper.Map<ProductDetailsDto>(product);
             return mappedProduct;
         }
+
+        
     }
 }
+
+
