@@ -146,3 +146,9 @@ E:\ASP.assignments\Store.Data\Store.Web\bin\Debug\net8.0\AutoMapper.dll
 E:\ASP.assignments\Store.Data\Store.Web\obj\Debug\net8.0\Store.Web.sourcelink.json
 E:\ASP.assignments\Store.Data\Store.Web\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
 E:\ASP.assignments\Store.Data\Store.Web\bin\Debug\net8.0\StackExchange.Redis.dll
+E:\ASP.assignments\Store.Data\Store.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ASP.assignments\Store.Data\Store.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ASP.assignments\Store.Data\Store.Web\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ASP.assignments\Store.Data\Store.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\ASP.assignments\Store.Data\Store.Web\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ASP.assignments\Store.Data\Store.Web\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
