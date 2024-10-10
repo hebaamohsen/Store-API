@@ -8,17 +8,21 @@ using Store.Service.HandleResponses;
 using Store.Service.Services.CacheServices;
 using Store.Service.Services.TheProducts;
 using Store.Service.Services.TheProducts.Dtos;
+using Store.Service.Services.Token_Service;
+using Store.Service.Services.UserService;
 
 namespace Store.Web.Extension
 {
     public static  class ApplicationServiceExtension
-    {
+    {  
         public static IServiceCollection AddAplicationService(this IServiceCollection services)
         {
             services.AddScoped<IUnitOfWork, UnitOfWork>();
             services.AddScoped<IProductService, ProductService>();
             services.AddScoped<ICacheServices,CacheService>();
             services.AddScoped<IBasketService, BasketService>();
+            services.AddScoped<ITokenService, TokenService>();
+            services.AddScoped<IUserService, UserService>();
             services.AddScoped<IBasketRepositry, BasketRepository>();
             services.AddAutoMapper(typeof(ProductProfile));
             services.AddAutoMapper(typeof(BasketProfile));
