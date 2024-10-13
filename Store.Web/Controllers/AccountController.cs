@@ -1,6 +1,5 @@
-﻿using Microsoft.AspNet.Identity;
-using Microsoft.AspNetCore.Authorization;
-using Microsoft.AspNetCore.Http;
+﻿using Microsoft.AspNetCore.Authorization;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Store.Data.Entities.IdentityEntities;
 using Store.Service.HandleResponses;
@@ -12,12 +11,12 @@ namespace Store.Web.Controllers
     public class AccountController : BaseController
     {
         private readonly IUserService _userService;
-        //private readonly UserManager<AppUser> _userManager;
+        private readonly UserManager<AppUser> _userManager;
 
-        public AccountController(IUserService userService/*, UserManager<AppUser> userManager*/)
+        public AccountController(IUserService userService,UserManager<AppUser> userManager)
         {
             _userService = userService;
-            //_userManager = userManager;
+            _userManager = userManager;
         }
 
         [HttpPost]
@@ -41,20 +40,20 @@ namespace Store.Web.Controllers
             return Ok(user);
         }
 
-        //[HttpGet]
-        //[Authorize]
-        //public async Task<UserDto> GetCurrentUserDetails()
-        //{
-        //    var userId = User?.FindFirst("UserId");
-        //    var user = _userManager.FindByIdAsync(userId.Value);
+        [HttpGet]
+        [Authorize]
+        public async Task<UserDto> GetCurrentUserDetails()
+        {
+            var userId = User?.FindFirst("UserId");
+            var user = await _userManager.FindByIdAsync(userId.Value);
 
-        //    return new UserDto
-        //    {
-        //        Id = Guid.Parse(user.Id),
-        //        DisplayName = user.DisplayName,
-        //        Email = user.Email,
-        //    };
-        //}
+            return new UserDto
+            {
+                Id = Guid.Parse(user.Id),
+                DisplayName = user.DisplayName,
+                Email = user.Email,
+            };
+        }
 
     }
 }

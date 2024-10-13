@@ -6,6 +6,8 @@ using Store.Service.BasketService;
 using Store.Service.BasketService.Dtos;
 using Store.Service.HandleResponses;
 using Store.Service.Services.CacheServices;
+using Store.Service.Services.OrderService;
+using Store.Service.Services.OrderService.Dtos;
 using Store.Service.Services.TheProducts;
 using Store.Service.Services.TheProducts.Dtos;
 using Store.Service.Services.Token_Service;
@@ -23,9 +25,12 @@ namespace Store.Web.Extension
             services.AddScoped<IBasketService, BasketService>();
             services.AddScoped<ITokenService, TokenService>();
             services.AddScoped<IUserService, UserService>();
+            services.AddScoped<IOrderService, OrderService>();
             services.AddScoped<IBasketRepositry, BasketRepository>();
             services.AddAutoMapper(typeof(ProductProfile));
             services.AddAutoMapper(typeof(BasketProfile));
+            services.AddAutoMapper(typeof(OrderProfile));
+
             services.Configure<ApiBehaviorOptions>(options =>
             {
                 options.InvalidModelStateResponseFactory = actionContext =>

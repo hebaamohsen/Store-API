@@ -8,7 +8,7 @@ namespace Store.Web.Extension
         {
             services.AddSwaggerGen(options =>
             {
-                options.SwaggerDoc("V1", new OpenApiInfo
+                options.SwaggerDoc("v1", new OpenApiInfo
                 {
                     Title = "Store Api",
                     Version = "v1",
