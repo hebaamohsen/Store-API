@@ -9,7 +9,6 @@ namespace Store.Data.Entities.OrderEntities
 {
     public class ProductItem
     {
-        [Key]
         public int ProductId { get; set; }
         public string ProductName { get; set; }
         public string PictureUrl { get; set; }

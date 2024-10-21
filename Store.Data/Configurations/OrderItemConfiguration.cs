@@ -9,11 +9,11 @@ using System.Threading.Tasks;
 
 namespace Store.Data.Configurations
 {
-    public class OrderItemConfiguration : IEntityTypeConfiguration<Order>
+    public class OrderItemConfiguration : IEntityTypeConfiguration<OrderItem>
     {
-        public void Configure(EntityTypeBuilder<Order> builder)
+        public void Configure(EntityTypeBuilder<OrderItem> builder)
         {
-            builder.OwnsOne(orderItem => orderItem.ShippingAddress, x =>
+            builder.OwnsOne(orderItem => orderItem.productItem, x =>
             {
                 x.WithOwner();
             });
